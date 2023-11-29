@@ -2,7 +2,7 @@
 Movie recommendation  System with Machine Learning
 
 -Overview of the code Implementation
-This Movie Recommendation System is a machine learning-based solution designed to offer personalized movie suggestions to users. It incorporates advanced techniques in data preprocessing, feature engineering, and ensemble learning algorithms to enhance the accuracy and effectiveness of movie recommendations.
+This Movie Recommendation System is basically a machine learning-based solution designed to offer personalized movie suggestions to users. It incorporates advanced techniques in data preprocessing, feature engineering, and ensemble learning algorithms to enhance the accuracy and effectiveness of movie recommendations.
 
 Features
 1. Data Preprocessing
